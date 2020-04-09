@@ -1,1 +1,1 @@
-# init_empty
+# Simple web app to view flash cards
